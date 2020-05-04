@@ -1,3 +1,19 @@
+.corVermelha{
+  background-color: red;
+}
+
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.secao h1{
+  font-family: 'Arial';
+}
+
+.corVerde {
+  background-color: green;
+}
+
 .App {
   text-align: center;
 }
