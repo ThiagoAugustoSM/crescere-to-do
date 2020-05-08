@@ -1,0 +1,12 @@
+#header{
+  display: flex;
+  flex-direction: row;
+  background-color: dimgrey;
+}
+
+.navigation{
+  cursor: pointer;
+  margin-left: 20px;
+  color: white;
+  font-size: 22px;
+}

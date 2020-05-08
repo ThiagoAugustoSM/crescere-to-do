@@ -6,8 +6,8 @@ const Tarefa = (props) => {
 
   const handleClick = () => {
     props.onDelete(props.tarefa)
-    console.log(`Tarefa clicado: ${props.tarefa}`)
   }
+  
   return (
     <div className='card' style={{backgroundColor: props.cor}}>
       <p> 
